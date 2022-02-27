@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Orders of His Highnes the Lord Protector, made and published by and with the advice and consent of his council, for putting in speedy and due execution the laws, statutes and ordinances, made and provided against printing unlicensed and scandalous books and panphlets, and for the further regulating of printing. Published by His Highness special command.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80984</idno>
+            <idno type="STC">Wing C7151</idno>
+            <idno type="STC">Thomason E1064_58</idno>
+            <idno type="STC">ESTC R210551</idno>
+            <idno type="EEBO-CITATION">99869339</idno>
+            <idno type="PROQUEST">99869339</idno>
+            <idno type="VID">169257</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169257)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1064[58])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Orders of His Highnes the Lord Protector, made and published by and with the advice and consent of his council, for putting in speedy and due execution the laws, statutes and ordinances, made and provided against printing unlicensed and scandalous books and panphlets, and for the further regulating of printing. Published by His Highness special command.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>England and Wales. Council of State.</author>
+               </titleStmt>
+               <extent>[2], 107-114 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills and John Field, Printers to His Highness,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLV. [1655]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dated at end: Given at White-Hall the eight and twentieth day of August, 1655.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Printing industry --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169257:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 25 -->
+            <p>ORDERS OF HIS HIGHNES The Lord Protector, Made and publiſhed by and with the Advice and Conſent of His COUNCIL, FOR Putting in ſpeedy and due Execution the Laws, Statutes and Ordinances, made and provi<g ref="char:EOLhyphen"/>ded againſt Printing Unlicenſed and Scan<g ref="char:EOLhyphen"/>dalous Books and Pamphlets, and for the further Regulating of PRINTING.</p>
+            <figure>
+               <figDesc>seal of the Commonwealth</figDesc>
+            </figure>
+            <p>Publiſhed by His. Highneſs ſpecial Command.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by HENRY HILLS and JOHN FIELD, Printers to His Highneſs, MDCLV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169257:2"/>
+            <!-- PDF PAGE 26 -->
+            <pb n="107" facs="tcp:169257:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>
+               <figure>
+                  <figDesc>seal of the Commonwealth</figDesc>
+               </figure>
+            </head>
+            <head>Orders of His Highneſs the Lord Protector, made and publiſhed by and with the Ad<g ref="char:EOLhyphen"/>vice and Conſent of His Council, for putting in ſpeedy and due Execution the Laws, Statutes and Ordinances, made and provided againſt Printing Unlicenſed and Scandalous Books and Pamphlets, and for the further Regulating of Printing.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in default of the ſpeedy, due, and effectual execution of the many good Laws, Statutes, and Ordinances heretofore made and publiſhed, againſt Vnlicen<g ref="char:EOLhyphen"/>ſed, Seditious, and Scandalous Books and Pamphlets; divers evil-minded perſons, and of malicious, inſolent and reſtleſs Spirits,
+<pb n="108" facs="tcp:169257:3"/>
+               <!-- PDF PAGE 27 -->have aſſumed to themſelves, and do continu<g ref="char:EOLhyphen"/>ally take upon them a licencious boldneſs, to Write, Print, Publiſh, and Diſperſe ſeveral Dangerous, Vnwarrantable, Seditious, Blaſphemous, and Scandalous Pamphlets, Books and Papers, to the high Diſhonor of Almighty God, the endangering of the Peace of this Commonwealth, the violation of all good Order and Government, and in manifeſt Contempt and Scorn of the Government and Laws of the Land; Which We having taken into Our Conſideration, do hold Our ſelves obliged to provide Remedy to the aforeſaid Evils: And therefore (having Confidence of the Care, Diligence, Diſcretion, and good Affection of you, <hi>John Barkſtead</hi> 
+               <abbr>Eſq</abbr> Lieute<g ref="char:EOLhyphen"/>nant of Our Tower of <hi>London, John Dethick</hi> Alderman of Our City of <hi>London,</hi> and <hi>George Foxcroft,</hi> to Vs, the preſent Government, and Peace and Welfare of this Commonwealth) We have thought fit, (as We hereby do) to intruſt, and commit unto you, joyntly and ſe<g ref="char:EOLhyphen"/>verally, the Execution of theſe Orders and Directions, touching the Premiſes, with the ſeveral Powers and Authorities hereafter mentioned, as well for the puniſhment of ſuch Offenders, as the timely preventing and ſup<g ref="char:EOLhyphen"/>preſſing of all Seditious, Blaſphemous, and other Libellous Pamphlets, Books, and Papers whatſoever. And for your better and more effectual proceeding therein, Our Will and Pleaſure is, And We do hereby Au<g ref="char:EOLhyphen"/>thoriſe, and ſtraitly Charge and Command you carefully to obſerve theſe Orders, Rules, and Directions following:
+<list>
+                  <pb n="509" facs="tcp:169257:3"/>
+                  <!-- PDF PAGE 27 -->
+                  <item>I. That without delay you diligently ſearch and inquire concerning the Printing-houſes, Preſſes, and Maſter-Printers, as well for the certain number of them, as alſo for the names of the Maſter-Printers, and of the names and number of Servants, Work-men, and Appren<g ref="char:EOLhyphen"/>tices, each Maſter Printer hath or ſhall here<g ref="char:EOLhyphen"/>after retain, and how many Preſſes each Ma<g ref="char:EOLhyphen"/>ſter-Printer hath, within Our Cities of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and <hi>Weſtminſter,</hi> and Borrough of <hi>South<g ref="char:EOLhyphen"/>wark,</hi> or the Liberties, Suburbs, or the Pre<g ref="char:EOLhyphen"/>cincts thereof, and of what fame, quality, converſation, or condition every ſuch Maſter-Printer is, and how he, and his Servants, and Work-men ſtand affected to the preſent Government; And that you make Certifi<g ref="char:EOLhyphen"/>cate of all the premiſes unto Vs, or Our Council within eight and twenty daies after your Receipt hereof.</item>
+                  <item>II. That you carefully inform your ſelves what perſon or perſons (not having a lawful licenſe in that bealf) do take upon them to print, or uſe, or put in practice, or cauſe to be uſed or put in practiſe the Art or Myſtery of Print<g ref="char:EOLhyphen"/>ing, or do uſe or employ, by themſelves or o<g ref="char:EOLhyphen"/>thers, any Printing-Preſs, Rolling-Preſs, or other Inſtrument for Printing, in any, and what place or part of this Common-wealth. And where any ſuch ſhall be found, That
+<pb n="110" facs="tcp:169257:4"/>
+                     <!-- PDF PAGE 28 -->you cauſe all their Printing-Letters and Ma<g ref="char:EOLhyphen"/>terials for Printing to be immediatly defaced, and the Offendors proſecuted, for recovery of the forfeitures, ſummes of money, and penalties by them incurred in this behalf, and cauſe them to be otherwiſe puniſhed according to the Laws and Statutes of the Land in ſuch caſes made and provided.</item>
+                  <item>III. That you alſo inform your ſelves whether the Printers and other perſons in Our City of <hi>London,</hi> and Liberties therof, or elſewhere, who keep Printing-Houſes, or are owners of Printing-Preſſes, Rolling-Preſſes, or other Inſtruments for Printing, have entred into Bonds reſpectively with two ſufficient ſure<g ref="char:EOLhyphen"/>ties, according to the purport and direction of the Act of Parliament, Intituled, <hi>An Act a<g ref="char:EOLhyphen"/>gainſt unlicenſed and ſcandalous Books and Pamph<g ref="char:EOLhyphen"/>lets, and for better regulating of Printing;</hi> And in caſe they have entred into ſuch Bonds ac<g ref="char:EOLhyphen"/>cordingly: Then whether they have, ſince that time offended; or ſhall hereafter offend in any of the premiſes or particulars mentio<g ref="char:EOLhyphen"/>ned in the ſaid Act of Parliament: or broken the conditions of thoſe reſpective Bonds, to the end, you may in like manner proſecute them, and their ſureties in Our name for recovery of the penalties in the ſeveral obli<g ref="char:EOLhyphen"/>gations mentioned, and by them forfeited by the ſaid conditions broken, and otherwiſe ac<g ref="char:EOLhyphen"/>cording to Law and their reſpective deme<g ref="char:EOLhyphen"/>rits.</item>
+                  <item>
+                     <pb n="111" facs="tcp:169257:4"/>
+                     <!-- PDF PAGE 28 -->
+IV. That you take eſpecial Care and ſee, That no perſon or perſons preſume to Print, Re<g ref="char:EOLhyphen"/>print, or Publiſh, or cauſe to be Printed, Re<g ref="char:EOLhyphen"/>printed, or Publiſhed, any Pamphlets, Books of News, Occurrences, or other ſuch like Papers whatſoever, unleſs he, or they ſhall be hereafter thereunto lawfully Authorized by Command from Vs, or Our Council, or unleſs ſuch Newes, Occurrences or ſuch like Papers be Licenced by ſuch as ſhall be ap<g ref="char:EOLhyphen"/>pointed thereto by Vs or Our Council. And whoſoever ſhall offend in the premiſes, ſhall be proceeded againſt by you, according to the Laws eſtabliſhed againſt unlicenſed and ſcandalous Pamphlets for ſuch their con<g ref="char:EOLhyphen"/>tempt and diſobedience in the premiſſes.</item>
+                  <item>V. And further, Our will and pleaſure is, And more particularly We do hereby require, Au<g ref="char:EOLhyphen"/>thoriſe, and Command you, for the better execution of the premiſes, That you put in ſpeedy and effectual execution in all things not hereby altered or otherwiſe directed, the Ordinance of the Lords and Commons Aſ<g ref="char:EOLhyphen"/>ſembled in Parliament, of <hi>Septem. 1647.</hi> In<g ref="char:EOLhyphen"/>tituled, <hi>An Ordinance againſt unlicenſed or ſcan<g ref="char:EOLhyphen"/>dalous Pamphlets, and for the better Regulating of Printing,</hi> As alſo one other Ordinance of the Lords and Commons in Parliament, of the <hi>14.</hi> of <hi>June 1643.</hi> for Regulating of Print<g ref="char:EOLhyphen"/>ing, and ſuppreſſing the great abuſes and fre<g ref="char:EOLhyphen"/>quent diſorders therein, and the Act of the Common-Council of Our City of <hi>London,</hi>
+                     <pb n="512" facs="tcp:169257:5"/>
+                     <!-- PDF PAGE 29 -->bearing date the ninth of <hi>October, 1643.</hi> pro<g ref="char:EOLhyphen"/>hibiting all perſons whatſoever from crying or putting to ſale about the ſtreets within the ſaid City of <hi>London,</hi> and Liberties thereof, any Pamphlets, Books, or Papers whatſo<g ref="char:EOLhyphen"/>ever, by way of hawking, and for puniſhment of the Offendours therein; And if any per<g ref="char:EOLhyphen"/>ſon or perſons hath or have heretofore offen<g ref="char:EOLhyphen"/>ded, or hereafter ſhall offend in the premiſes, or ſhall abet and countenance the ſame, con<g ref="char:EOLhyphen"/>trary to the ſaid Acts or Ordinances, or any other Act or Ordinance now in force, We do hereby Will, Authoriſe, and Command you, that immediately you repair to the place or places where they are or ſhall be abiding, aſwel within Liberties as without, and to apprehend, and arreſt, or cauſe to be areſted the bodies of them, and every of them ſo of<g ref="char:EOLhyphen"/>rending, and their Complices and Abettors, and to cauſe them to be ſent in ſafe and ſecure Cuſtody unto Bride-well, And to cauſe all ſuch corporal and pecuniary puniſhments to be ſpeedily and impartially inflicted on ſuch of the Offendors in the premiſes, and the pe<g ref="char:EOLhyphen"/>nalties duly levied for their ſeveral offences, as therein and thereby are mentioned and provided; And We will they ſhall not be thence diſcharged until they ſhall have made full payment and ſatisfaction, and received the ſaid puniſhment accordingly. And the Governors of Bride-well, are hereby requi<g ref="char:EOLhyphen"/>red to ſee ſuch Offendors as ſhall be ſent to them puniſhed according to the Law. And you are hereby alſo Authoriſed and requi<g ref="char:EOLhyphen"/>red from time to time to make diligent ſearch in all places where you ſhall
+<pb n="113" facs="tcp:169257:5"/>
+                     <!-- PDF PAGE 29 -->think meet for all Printing Preſſes, any way employed in Printing ſuch ſcandalous, ſedi<g ref="char:EOLhyphen"/>tious, and unlicenſed Papers, Pamphlets, Books, or Ballads whatſoever, and to ſeiſe, and carry away ſuch Printing-Preſſes and Letters, with the Nut, Spindle, and other Materials of every ſuch irregular Printer, which you ſhall finde ſo miſ-employed, unto the Stationers Hall in our ſaid City of <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> there to be defaced, and made unſervice<g ref="char:EOLhyphen"/>able, according to the ſaid Acts and Or<g ref="char:EOLhyphen"/>dinances of Parliament in that behalf: As alſo to make diligent ſearch and inquiry in all ſuſpected Printing-Houſes, Ware-houſes, Shops, and other places whatſoever, for ſuch unlicenſed Books, Papers, Sheet or Sheets of News whatſoever, as is herein before directed; And the ſame to detein and keep, to be diſpoſed of as We or Our Coun<g ref="char:EOLhyphen"/>cil ſhall think fit; And in caſe of any oppoſi<g ref="char:EOLhyphen"/>tion or reſiſtance in the premiſes; We hereby Authoriſe and require you, to break open all or any locks or doors, and to apprehend all and every perſon and perſons whom you ſhall finde ſo oppoſing or reſiſting, to convent or cauſe to be brought before the Lord Mayor of Our City of <hi>London,</hi> or any other of Our Iu<g ref="char:EOLhyphen"/>ſtices of Peace to be examined and proceeded againſt according to the Law. And all Our Iuſtices of Peace, Mayors, Sheriffs, Bai<g ref="char:EOLhyphen"/>liffs, Conſtables, Head-Boroughs, and all and every other Our Officers, and Mini<g ref="char:EOLhyphen"/>ſters of Iuſtice both Civil and Military, and other perſons whatſoever, are hereby requi<g ref="char:EOLhyphen"/>red
+<pb n="114" facs="tcp:169257:6"/>
+                     <!-- PDF PAGE 30 -->and commanded to be aiding, and aſſiſt<g ref="char:EOLhyphen"/>ing unto you, or your Deputies, in the exe<g ref="char:EOLhyphen"/>cution of the premiſſes, as they and every of them will anſwer the contrary at their utmoſt perils. And We do hereby give you full power and authority to aſſign, depute, and employ any fit and diſcreet perſons un<g ref="char:EOLhyphen"/>der you by writing under your hands and ſeals, for the better execution of theſe Or<g ref="char:EOLhyphen"/>ders and Directions, and to reward proſe<g ref="char:EOLhyphen"/>cutors (allowance whereof ſhall be made unto you by the Council) and do all and every ſuch other thing and things as are meet and requiſite to the effectual performance of this Our ſervice, ſo much conducing to the pre<g ref="char:EOLhyphen"/>ſervation of the publique peace: For all which, theſe preſents ſhall be a ſufficient War<g ref="char:EOLhyphen"/>rant and diſcharge in this behalf.</item>
+               </list>
+            </p>
+            <closer>
+               <dateline>Given at <hi>White-Hall</hi> 
+                  <date>the eight and twentieth day of <hi>Auguſt,</hi> 1655.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
